@@ -1,0 +1,42 @@
+[
+    {
+        "email": "valentin.bonnet@epitech.eu",
+        "password": "1337",
+        "all_perm": true,
+        "rank": "Web Developper",
+        "first_name": "BONNET",
+        "last_name": "Valentin",
+        "phone": "0642409621",
+        "photo": "https://intra.epitech.eu/file/userprofil/profilview/valentin.bonnet.jpg"
+    },
+    {
+        "email": "adrien.delestrade@epitech.eu",
+        "password": "abc",
+        "all_perm": false,
+        "rank": "Web Developper",
+        "first_name": "DELESTRADE",
+        "last_name": "Adrien",
+        "phone": "0607080910",
+        "photo": null
+    },
+    {
+        "email": "invite@1.fr",
+        "password": "1",
+        "all_perm": true,
+        "rank": "Newb-In Developper",
+        "first_name": "NOM",
+        "last_name": "Invité 1",
+        "phone": "0607080910",
+        "photo": "https://intra.epitech.eu/file/userprofil/profilview/valentin.bonnet.jpg"
+    },
+    {
+        "email": "invite@2.fr",
+        "password": "2",
+        "all_perm": false,
+        "rank": "Newb-In Developper",
+        "first_name": "NOM",
+        "last_name": "Invité 2",
+        "phone": "0607080910",
+        "photo": null
+    }
+]
